@@ -1,1 +1,1 @@
-[![Skills](https://skillicons.dev/icons?i=rust,c,python,sv,arch)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=rust,c,python,verilog,arch)](https://skillicons.dev)
